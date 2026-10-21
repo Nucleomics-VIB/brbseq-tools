@@ -3,9 +3,8 @@
 ## Now / Next
 
 - **Now (2026-10-21):** issue #1 (post-migration cleanup after the rename
-  `BRBseq-tools` -> `brbseq-tools`) is done on branch
-  `1-post-migration-cleanup-finish-what-the`. The PR says `Closes #1`.
-- **Next:** merge the PR after Stephane says yes, then delete the branch.
+  `BRBseq-tools` -> `brbseq-tools`) is closed. PR #2 is merged into `main`.
+- **Next:** no work in progress.
 - **Open, not ticketed:** `main` has two repository rulesets, 22117513 and
   23419165, with the same rules (`deletion`, `non_fast_forward`). One of them
   is probably a duplicate. Decide with Stephane before you delete one.
